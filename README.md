@@ -56,7 +56,13 @@ Create a comprehensive inventory module with real-time tracking, automated reord
 Our solution will revolutionize hospital operations by addressing key challenges in queuing, bed management, and admissions. By integrating with city-wide systems, we will enhance resource coordination and improve patient care, leading to a more efficient and effective healthcare system. 🌟 
 
 
+
+
+
 ---
+
+
+
 
 
   #  **Required Webpages:**
