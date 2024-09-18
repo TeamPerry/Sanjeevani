@@ -150,7 +150,7 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
    # **Technology Stack:**
 
-## **Front-End Development:**
+### **Front-End Development:**
 
 1.   HTML (HyperText Markup Language)  :  
    Purpose: Provides the structure of the web page.  
