@@ -70,7 +70,7 @@ Our solution will revolutionize hospital operations by addressing key challenges
 
 
 ---
-# ** Abstract:**
+#  **Abstract:**
 
 **Sanjeevani+: Breathing New Life into Modern Healthcare**
 
