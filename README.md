@@ -1,5 +1,7 @@
 #  **Sanjeevani+** 
 
+![image](https://github.com/user-attachments/assets/f2aac935-216c-4337-bd33-93b65ae76cc1)
+
 
 ![sanjeevani_flowchart](https://github.com/user-attachments/assets/0a7483e2-de14-4e0f-9df2-cc5725fd386a)
 
